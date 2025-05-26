@@ -59,7 +59,13 @@
 				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/__ExternalObjects__/Game/Maps/Level_1/2/6F/XYOJR7UKRJQZI76THJO5N7.uasset",
 				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/__ExternalObjects__/Game/Maps/Level_1/A/GW/B5IYFWJBF2U3TLA96SA3HL.uasset",
 				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/Game/BP_Proyectil.uasset",
-				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/Assets/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/Assets/UI/WBP_Dialogue.uasset",
+				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/Assets/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/Assets/Blueprints/BP_plataformPersonCharacter.uasset",
+				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/Assets/Blueprints/BP_PladformPersonGameMode.uasset",
+				"C:/Users/juanc/Documents/GitHub/Unir_Plataformas2D/Content/Assets/Input/Actions/IA_Move.uasset"
 			]
 		}
 	]
